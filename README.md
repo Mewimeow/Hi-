@@ -25,3 +25,15 @@ Other
 - User Flow Mapping  
 - Responsive Design  
 - Collaboration in Agile Teams
+
+Current Projects
+
+- 🎨 Designing wireframes and prototypes in Figma  
+- 🛠️ Building UI components with Flutter
+- 📊 Learning about usability testing and design systems 
+- 💼 Creating a portfolio with case studies and design showcases  
+
+📬 Connect with Me
+
+📧 Email: Maryannc.labanda@gmail.com
+"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs_
